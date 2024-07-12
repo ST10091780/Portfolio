@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../../APDS/BACKEND"
+	},
+	{
+		"path": "../gerich restaurant"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "gerich restaurant"
+  }
+}
